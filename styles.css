@@ -1,0 +1,159 @@
+nav i{
+    color: #22A39F;
+    font-size: 2rem;
+}
+.my-body{
+    background-color: #222222;
+}
+.home-body{
+    background-color: #F3EFE0;
+}
+header{
+    background-color: #222222;
+}
+header a:visited, header a:link, header a:hover, header h6{
+    color: #22A39F;
+}
+.banner{
+    background-color: #222222;
+}
+.banner-heading{
+    color: #F3EFE0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 6rem;
+}
+.banner-text{
+    color: #F3EFE0;
+    font-family: 'Space Mono', monospace;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+.banner-title{
+    margin-top: 8rem;
+    padding: 50px;
+}
+.banner-img{
+    margin-top: 8rem;
+    margin-left: 8rem;
+    width: 35rem;
+}
+.bg-teal{
+    background-color: #22A39F;
+}
+.bg-clear{
+    background-color: #F3EFE0;
+}
+.login-form button, .login-form button a, .login-form button a:visited, .login-form button a:link, .register-form button, .register-form button a, .register-form button a:visited, .register-form button a:link{
+    color: #fff;
+    background-color: #22A39F;
+    border-color: #22A39F;
+    text-decoration: none;
+}
+.sign-up{
+    background-color: #F3EFE0;
+}
+.sign-up a:visited, .sign-up a:link, .sign-up a:hover{
+    color: #222222;
+    text-decoration: none;
+}
+.category{
+    padding: 2rem;
+}
+.category h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 3rem;
+}
+.category i{
+    font-size: 5rem;
+}
+.category p{
+    font-family: 'Space Mono', monospace;
+    padding: 0rem 1rem;
+    font-size: 1.3rem;
+    height: 5rem;
+}
+.category button{
+    background-color: #22A39F;
+    margin-top: 1rem;
+}
+.nav-black{
+    background-color: #222222;
+}
+.nav-black .dropdown-menu{
+    background-color: #22A39F;
+}
+.nav-black a, .nav-black a:visited, .nav-black a:hover, .nav-black a:link{
+    color: #F3EFE0;
+}
+.card button, .card button a, .card button a:link, .card button a:visited, .card button a:hover, .table button, .table button a, .table button a:link, .table button a:visited, .table button a:hover, .uploadConfirmation button, .uploadConfirmation button a, .uploadConfirmation button a:link, .uploadConfirmation button a:visited, .uploadConfirmation button a:hover{
+    color: #fff;
+    background-color: #22A39F;
+    border-color: #22A39F;
+    text-decoration: none;
+}
+.table svg{
+    font-size: 4rem;
+    color: #22A39F;
+}
+.checked {
+    color: orange;
+  }
+.feature-box {
+  padding: 24px 20px;
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  transition: 0.3s;
+  height: 100%;
+}
+.feature-box h3 {
+  font-size: 18px;
+  color: #22A39F;
+  font-weight: 700;
+  margin: 0;
+} 
+.feature-box a{
+    text-decoration: none;
+}
+main h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 3rem;
+    color: #22A39F;
+}
+.sb-sidenav-menu{
+    font-family: 'Lobster Two', cursive;
+    padding-top: 7rem;
+}
+.sb-sidenav-footer{
+    color: #F3EFE0;
+    font-family: 'Lobster Two', cursive;
+}
+.card img{
+    width: 15rem;
+    height: 15rem;
+}
+.card-header{
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+    color: #22A39F;
+}
+.footer{
+    background-color: #222222;
+}
+.footer i{
+    color: #22A39F;
+    font-size: 3rem;
+    padding: 10px;
+}
+.footer p{
+    color: #22A39F;
+    font-size: 2rem;
+    padding-top: 11.6rem;
+}
+.footer .socials{
+    padding-right: 2rem;
+    padding-top: 4rem;
+}
+.footer img{
+    height: 20rem;
+    width: 20rem;
+}
